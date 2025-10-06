@@ -1,0 +1,29 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Activity Graph
+        uses: ashutosh00710/github-readme-activity-graph@master
+        with:
+          GITHUB_USERNAME: mrithip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push updated activity graph
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Automated update of GitHub activity graph"
+          file_pattern: activity.svg
