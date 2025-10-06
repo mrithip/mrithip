@@ -15,6 +15,10 @@
   <img src="https://streak-stats.vercel.app?user=mrithip&theme=radical&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=radical"/>
+</p>
+
 ### 🔭 Currently Working On
 
 <!--
