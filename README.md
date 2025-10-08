@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Profile views](https://komarev.com/ghpvc/?username=mrithip)](https://github.com/mrithip)
-
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -16,17 +14,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark"/>
 </p>
-
-### 🔭 Currently Working On
-
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
