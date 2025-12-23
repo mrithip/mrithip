@@ -5,10 +5,6 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrithip&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark"/>
 </p>
 
