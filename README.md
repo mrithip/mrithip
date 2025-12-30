@@ -1,38 +1,54 @@
-# 👋 Hello, I'm Mrithip!
+# Hi there 👋, I’m Mrithip
 
-<!-- Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and exploring new technologies. Here's a glimpse into my GitHub journey. -->
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark"/>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrithip&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrithip&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- ## 🛠️ Technologies & Tools
-
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, VS Code -->
-
-## 📫 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/mrithip)
-<!-- - [Portfolio](https://mrithip.dev) -->
+I’m a **multi-domain developer & robotics enthusiast** exploring **robotics, AI, full-stack development, desktop apps, and data analytics**.  
+I love **combining hardware, software, and analytics** to build innovative solutions.
 
 ---
 
-<!-- ⭐ **Fun fact:** I love solving coding challenges and contributing to open-source projects! -->
-<!-- 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</p> -->
+### 🔹 Core Skills
+- 🤖 **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
+- 🖥 **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
+- 📊 **Data Analytics & SQL**: COVID-19 analysis
+- 🧠 **AI & Computer Vision**: Face recognition, object recognition, number plate reader, similar image finder  
+- 🛠 **Desktop Apps**: PyQt, Qt C++  
+- 🎨 **UI/UX Design**: Figma, prototyping, user-friendly interfaces  
+
+---
+
+### 🗣 Languages & Tools
+**Programming Languages:** Python, C++, JavaScript, HTML, CSS, PHP  
+**Databases:** MongoDB, MySQL, SQLite, SQL  
+**Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo  
+
+---
+
+### 🚀 Signature Project
+**TurtleBot3 PyQt GUI** – An open-source GUI for controlling and visualizing TurtleBot3 robots in real-time.  
+- Velocity control and trajectory visualization  
+- Real-time graphing of robot motion  
+
+[🔗 View Project Repository](https://github.com/mrithip/turtlebot3_gui)
+
+---
+
+### 📂 Other Notable Projects
+- **Data Analytics** – COVID-19 SQL analysis
+- **Mobile Robot Project** – 3-wheeled mobile robot with depth camera, LiDAR, and camera; SLAM mapping in ROS/Gazebo  
+- **6-DOF Robot Simulation** – URDF + MoveIt2 for motion planning  
+- **Full-Stack Apps** – Blockchain buspass generator, Web & mobile apps with React, Node.js, Django, Flask, FastAPI  
+- **AI/CV Systems** – Face recognition attendance, object recognition, number plate reader, similar image finder
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](#) <!-- Placeholder for your portfolio link -->  
+
+---
+
+### 📊 GitHub Contribution Graph
+![Mrithip's GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrithip&theme=react-dark&hide_border=true)  
+
+---
+
+### 💡 Fun Fact
+I’m always **exploring new domains** — from robotics and AI to analytics and UI/UX design — and enjoy **building systems that combine hardware, software, and intelligence**.
