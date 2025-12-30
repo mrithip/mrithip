@@ -6,9 +6,9 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### 🔹 Core Skills
+- 📊 **Data Analytics & SQL**: COVID-19 analysis
 - 🤖 **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
 - 🖥 **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
-- 📊 **Data Analytics & SQL**: COVID-19 analysis
 - 🧠 **AI & Computer Vision**: Face recognition, object recognition, number plate reader, similar image finder  
 - 🛠 **Desktop Apps**: PyQt, Qt C++  
 - 🎨 **UI/UX Design**: Figma, prototyping, user-friendly interfaces  
