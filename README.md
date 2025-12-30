@@ -45,9 +45,6 @@ I love **combining hardware, software, and analytics** to build innovative solut
 
 ---
 
-### 📊 GitHub Stats
-![Mrithip's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrithip&theme=react-dark&show_icons=true&hide_border=true)
-
 ### 📈 GitHub Activity Graph
 ![Mrithip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark&hide_border=true)
 
