@@ -41,7 +41,7 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### 🌐 Connect with Me
-[LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](#) <!-- Placeholder for your portfolio link -->  
+[LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
 
 ---
 
