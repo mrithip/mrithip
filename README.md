@@ -6,7 +6,7 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### 🔹 Core Skills
-- 📊 **Data Analytics & SQL**: SQL analysis, SQL data cleaning 
+- 📊 **Data Analytics & SQL**: SQL analysis, SQL data cleaning, EDA
 - 🤖 **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
 - 🖥 **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
 - 🧠 **AI & Computer Vision**: Face recognition, object recognition, number plate reader, similar image finder  
@@ -32,7 +32,7 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### 📂 Other Notable Projects
-- **Data Analytics** – COVID-19 SQL analysis, Nashville housing SQL data cleaning 
+- **Data Analytics** – COVID-19 SQL analysis, Nashville housing SQL data cleaning, World layoff data cleaning and EDA 
 - **Mobile Robot Project** – 3-wheeled mobile robot with depth camera, LiDAR, and camera; SLAM mapping in ROS/Gazebo  
 - **6-DOF Robot Simulation** – URDF + MoveIt2 for motion planning  
 - **Full-Stack Apps** – Blockchain buspass generator, Web & mobile apps with React, Node.js, Django, Flask, FastAPI  
