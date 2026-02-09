@@ -6,19 +6,20 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### 🔹 Core Skills
-- **Data Analytics & SQL**: SQL analysis, SQL data cleaning, EDA
+- **Data Analytics & SQL**: SQL analysis, SQL data cleaning, EDA, Excel
 - **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
 - **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
-- **AI & Computer Vision**: Face recognition, object recognition, number plate reader, similar image finder  
-- **Desktop Apps**: PyQt, Qt C++  
+- **AI & Computer Vision**: OpenCV, Tesseract-OCR, llm 
+- **Desktop Apps**: PyQt, Pyside, Qt C++, WxWidgets C++
 - **UI/UX Design**: Figma, prototyping, user-friendly interfaces  
 
 ---
 
 ### Languages & Tools
-**Programming Languages:** Python, C++, JavaScript, HTML, CSS, PHP  
+**Programming Languages:** Python, C++, JavaScript, PHP
+**Shell:** Bash 
 **Databases:** MongoDB, MySQL, SQLite, SQL  
-**Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo  
+**Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo, Qt C++  
 
 ---
 
@@ -35,8 +36,9 @@ I love **combining hardware, software, and analytics** to build innovative solut
 - **Data Analytics** – COVID-19 SQL analysis, Nashville housing SQL data cleaning, World layoff data cleaning and EDA 
 - **Mobile Robot Project** – 3-wheeled mobile robot with depth camera, LiDAR, and camera; SLAM mapping in ROS/Gazebo  
 - **6-DOF Robot Simulation** – URDF + MoveIt2 for motion planning  
-- **Full-Stack Apps** – Blockchain buspass generator, Web & mobile apps with React, Node.js, Django, Flask, FastAPI  
-- **AI/CV Systems** – Face recognition attendance, object recognition, number plate reader, similar image finder
+- **Blockchain** – Blockchain buspass generator
+- **Full-Stack Apps** – Web & mobile apps with React, E-commerce Websites 
+- **AI/CV Systems** – Face recognition attendance, object recognition, number plate reader, similar image finder, Local LLMs
 
 ---
 
