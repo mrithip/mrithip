@@ -1,56 +1,52 @@
-# Hi there, I’m Mrithip
+<div align="center">
+  <h1>Hi there, I’m Mrithip! 👋</h1>
+  
+  <h3>Multi-Domain Developer & Robotics Enthusiast</h3>
+  
+  <p>
+    Building bridges between <b>Hardware</b>, <b>Software</b>, and <b>Intelligence</b>.
+    <br>
+    <i>Exploring Robotics, AI, Full-Stack, and Data Analytics.</i>
+  </p>
 
-I’m a **multi-domain developer & robotics enthusiast** exploring **robotics, AI, full-stack development, desktop apps, and data analytics**.  
-I love **combining hardware, software, and analytics** to build innovative solutions.
+  <p>
+    <a href="https://linkedin.com/in/mrithip"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://mrithip.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  </p>
+</div>
 
----
+<br>
 
-### 🔹 Core Skills
-- **Data Analytics & SQL**: SQL analysis, SQL data cleaning, EDA, Excel
-- **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
-- **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
-- **AI & Computer Vision**: OpenCV, Tesseract-OCR, llm 
-- **Desktop Apps**: PyQt, Pyside, Qt C++, WxWidgets C++
-- **UI/UX Design**: Figma, prototyping, user-friendly interfaces  
+## �️ Tech Stack
 
----
+<div align="center">
 
-### Languages & Tools
-**Programming Languages:** Python, C++, JavaScript, PHP
-**Shell:** Bash 
-**Databases:** MongoDB, MySQL, SQLite, SQL  
-**Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo, Qt C++  
+| **Languages** | **Frontend & Backend** | **Robotics & AI** | **Tools & DevOps** |
+|:---:|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) <br> ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) <br> ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat&logo=gazebo&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 
----
+</div>
 
-### Signature Project
-**TurtleBot3 PyQt GUI** – An open-source GUI for controlling and visualizing TurtleBot3 robots in real-time.  
-- Velocity control and trajectory visualization  
-- Real-time graphing of robot motion  
+<br>
 
-[View Project Repository](https://github.com/mrithip/turtlebot3_gui)
+## 🚀 Featured Work
 
----
+| Project | Description | Tech Info |
+|---|---|---|
+| **[TurtleBot3 PyQt GUI](https://github.com/mrithip/turtlebot3_gui)** | Real-time control & visualization dashboard for TurtleBot3 robots. <br> _Signature Project_ | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Mobile Robot Platform** | 3-wheeled robot with depth camera, LiDAR, and SLAM mapping integration. | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/Gazebo-FF6F00?style=flat-square&logo=gazebo&logoColor=white) |
+| **AI/CV Systems** | Collection of tools: Face recognition attendance, object detection, and local LLM integrations. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Data Analytics** | SQL analysis on COVID-19, Housing, and Layoff datasets with extensive EDA. | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 
-### Other Notable Projects
-- **Data Analytics** – COVID-19 SQL analysis, Nashville housing SQL data cleaning, World layoff data cleaning and EDA 
-- **Mobile Robot Project** – 3-wheeled mobile robot with depth camera, LiDAR, and camera; SLAM mapping in ROS/Gazebo  
-- **6-DOF Robot Simulation** – URDF + MoveIt2 for motion planning  
-- **Blockchain** – Blockchain buspass generator
-- **Full-Stack Apps** – Web & mobile apps with React, E-commerce Websites 
-- **AI/CV Systems** – Face recognition attendance, object recognition, number plate reader, similar image finder, Local LLMs
+<br>
 
----
+<div align="center">
+  <h3>GitHub Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
 
-### Connect with Me
-[LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
+<br>
 
----
-
-### GitHub Activity Graph
-![Mrithip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark&hide_border=true)
-
----
-
-### Fun Fact
-I’m always **exploring new domains** — from robotics and AI to analytics and UI/UX design — and enjoy **building systems that combine hardware, software, and intelligence**.
+<div align="center">
+  <i>"Always exploring new domains — building systems that combine hardware, software, and intelligence."</i>
+</div>
