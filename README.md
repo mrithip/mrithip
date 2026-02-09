@@ -16,10 +16,10 @@ I love **combining hardware, software, and analytics** to build innovative solut
 ---
 
 ### Languages & Tools
-**Shell:** Bash 
-**Programming Languages:** Python, C++, JavaScript, PHP
-**Databases:** MongoDB, MySQL, SQLite, SQL  
-**Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo, Qt C++  
+- **Shell:** Bash 
+- **Programming Languages:** Python, C++, JavaScript, PHP
+- **Databases:** MongoDB, MySQL, SQLite, SQL  
+- **Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo, Qt C++, Cmake, qmake
 
 ---
 
