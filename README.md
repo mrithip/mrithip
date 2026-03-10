@@ -17,22 +17,6 @@ I’m a **software developer and robotics enthusiast** building **full-stack app
 
 ---
 
-# Signature Project
-
-## TurtleBot3 PyQt GUI
-
-An **open-source GUI application for controlling and visualizing TurtleBot3 robots in real time.**
-
-### Features
-- Velocity control interface  
-- Robot trajectory visualization  
-- Real-time motion graphing  
-
-**Repository:**  
-https://github.com/mrithip/turtlebot3_gui
-
----
-
 ## Notable Projects
 
 - **TurtleBot3 PyQt GUI:** Control and visualize TurtleBot3 in real time ([Repo](https://github.com/mrithip/turtlebot3_gui))  
