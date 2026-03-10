@@ -1,67 +1,23 @@
-# Hi there, I’m Mrithip
+# Hi, I’m Mrithip
 
-I’m a **multi-domain developer & robotics enthusiast** exploring **robotics, AI, full-stack development, desktop apps, and data analytics**.  
-I love **combining hardware, software, and analytics** to build innovative solutions.
-
----
-
-# 💻 Core Skills (Software Development)
-
-## Full-Stack Development
-- **Frontend:** React, React Native  
-- **Backend:** Node.js, Django, Flask, FastAPI  
-- **APIs:** REST APIs, backend system design  
-
-## Desktop Application Development
-- **Frameworks:** PyQt, PySide, Qt C++, WxWidgets C++  
-- Building **GUI-based tools and visualization systems**
-
-## Programming Languages
-- Python  
-- C++  
-- JavaScript  
-- PHP  
-- Bash  
+I’m a **software developer and robotics enthusiast** building **full-stack applications, desktop tools, AI systems, and robotics solutions**. I enjoy combining **hardware, software, and analytics** to create practical and intelligent systems.
 
 ---
 
-# 🛠 Technologies & Tools
+## Core Skills
 
-- **Databases:** MongoDB, MySQL, SQLite, SQL  
-- **Dev Tools:** Git, GitHub, Linux, Colcon, Docker, Postman, 
-- **Build Systems:** CMake, qmake  
-- **UI/UX Design:** Figma, prototyping  
-- **3D Tools:** FreeCAD  
-
----
-
-# 🤖 Robotics & AI (Secondary Focus)
-
-## Robotics & Simulation
-- ROS / ROS2  
-- MoveIt2  
-- Gazebo  
-- URDF  
-- RViz  
-
-## AI & Computer Vision
-- OpenCV  
-- Tesseract OCR  
-- Local LLMs  
+**Full-Stack Development:** React, React Native, Node.js, Django, Flask, FastAPI  
+**Desktop Apps:** PyQt, PySide, Qt C++, WxWidgets C++  
+**Programming:** Python, C++, JavaScript, PHP, Bash  
+**Databases & Tools:** MySQL, MongoDB, SQLite, SQL, Git, Docker, Linux, CMake, qmake  
+**UI/UX & Design:** Figma, prototyping  
+**3D & Robotics:** ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
+**AI & Computer Vision:** OpenCV, Tesseract OCR, Local LLMs  
+**Data Analytics:** SQL analysis, EDA, Excel, Power BI  
 
 ---
 
-# 📊 Data Analytics
-
-- SQL Data Analysis  
-- SQL Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Excel Analytics  
-- Power Bi Analytics
-
----
-
-# 🚀 Signature Project
+# Signature Project
 
 ## TurtleBot3 PyQt GUI
 
@@ -72,41 +28,19 @@ An **open-source GUI application for controlling and visualizing TurtleBot3 robo
 - Robot trajectory visualization  
 - Real-time motion graphing  
 
-🔗 **Repository:**  
+**Repository:**  
 https://github.com/mrithip/turtlebot3_gui
 
 ---
 
-# 🧠 Other Notable Projects
+## Notable Projects
 
-## Robotics
-**Mobile Robot Project**  
-- 3-wheeled mobile robot with **depth camera, LiDAR, and camera**
-- **SLAM mapping using ROS/Gazebo**
-
-**6-DOF Robot Simulation**  
-- Robot arm simulation using **URDF + MoveIt2 motion planning**
-
----
-
-## AI & Computer Vision
-- Face recognition attendance system  
-- Object recognition system  
-- Number plate recognition  
-- Similar image finder  
-- Local LLM experiments  
-
----
-
-## Data Analytics
-- COVID-19 SQL analysis  
-- Nashville housing SQL data cleaning  
-- World layoff data cleaning & EDA  
-
----
-
-## Blockchain
-- Blockchain bus pass generator  
+- **TurtleBot3 PyQt GUI:** Control and visualize TurtleBot3 in real time ([Repo](https://github.com/mrithip/turtlebot3_gui))  
+- **Mobile Robot Project:** 3-wheeled robot with depth camera, LiDAR, SLAM mapping  
+- **6-DOF Robot Simulation:** URDF + MoveIt2 motion planning  
+- **AI/CV Systems:** Face recognition, object detection, number plate reader, similar image finder  
+- **Data Analytics:** COVID-19 analysis, housing & layoff data cleaning and visualization  
+- **Blockchain:** Bus pass generator  
 
 ---
 
@@ -117,8 +51,3 @@ https://github.com/mrithip/turtlebot3_gui
 
 ### GitHub Activity Graph
 ![Mrithip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark&hide_border=true)
-
----
-
-### Fun Fact
-I’m always **exploring new domains** — from robotics and AI to analytics and UI/UX design — and enjoy **building systems that combine hardware, software, and intelligence**.
