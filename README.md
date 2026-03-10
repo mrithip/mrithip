@@ -5,40 +5,108 @@ I love **combining hardware, software, and analytics** to build innovative solut
 
 ---
 
-### 🔹 Core Skills
-- **Data Analytics & SQL**: SQL analysis, SQL data cleaning, EDA, Excel
-- **Robotics & Open-Source**: ROS/ROS2, MoveIt2, Gazebo, URDF, RViz  
-- **Full-Stack Development**: React, React Native, Node.js, Django, Flask, FastAPI  
-- **AI & Computer Vision**: OpenCV, Tesseract-OCR, llm 
-- **Desktop Apps**: PyQt, Pyside, Qt C++, WxWidgets C++
-- **UI/UX Design**: Figma, prototyping, user-friendly interfaces  
+# 💻 Core Skills (Software Development)
+
+## Full-Stack Development
+- **Frontend:** React, React Native  
+- **Backend:** Node.js, Django, Flask, FastAPI  
+- **APIs:** REST APIs, backend system design  
+
+## Desktop Application Development
+- **Frameworks:** PyQt, PySide, Qt C++, WxWidgets C++  
+- Building **GUI-based tools and visualization systems**
+
+## Programming Languages
+- Python  
+- C++  
+- JavaScript  
+- PHP  
+- Bash  
 
 ---
 
-### Languages & Tools
-- **Shell:** Bash 
-- **Programming Languages:** Python, C++, JavaScript, PHP
+# 🛠 Technologies & Tools
+
 - **Databases:** MongoDB, MySQL, SQLite, SQL  
-- **Tools & Platforms:** Linux, Docker, Git, GitHub, Figma, FreeCAD, PyQt, ROS/Gazebo, Qt C++, Cmake, qmake
+- **Dev Tools:** Git, GitHub, Linux, Colcon, Docker, Postman, 
+- **Build Systems:** CMake, qmake  
+- **UI/UX Design:** Figma, prototyping  
+- **3D Tools:** FreeCAD  
 
 ---
 
-### Signature Project
-**TurtleBot3 PyQt GUI** – An open-source GUI for controlling and visualizing TurtleBot3 robots in real-time.  
-- Velocity control and trajectory visualization  
-- Real-time graphing of robot motion  
+# 🤖 Robotics & AI (Secondary Focus)
 
-[View Project Repository](https://github.com/mrithip/turtlebot3_gui)
+## Robotics & Simulation
+- ROS / ROS2  
+- MoveIt2  
+- Gazebo  
+- URDF  
+- RViz  
+
+## AI & Computer Vision
+- OpenCV  
+- Tesseract OCR  
+- Local LLMs  
 
 ---
 
-### Other Notable Projects
-- **Data Analytics** – COVID-19 SQL analysis, Nashville housing SQL data cleaning, World layoff data cleaning and EDA 
-- **Mobile Robot Project** – 3-wheeled mobile robot with depth camera, LiDAR, and camera; SLAM mapping in ROS/Gazebo  
-- **6-DOF Robot Simulation** – URDF + MoveIt2 for motion planning  
-- **Blockchain** – Blockchain buspass generator
-- **Full-Stack Apps** – Web & mobile apps with React, E-commerce Websites 
-- **AI/CV Systems** – Face recognition attendance, object recognition, number plate reader, similar image finder, Local LLMs
+# 📊 Data Analytics
+
+- SQL Data Analysis  
+- SQL Data Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Excel Analytics  
+- Power Bi Analytics
+
+---
+
+# 🚀 Signature Project
+
+## TurtleBot3 PyQt GUI
+
+An **open-source GUI application for controlling and visualizing TurtleBot3 robots in real time.**
+
+### Features
+- Velocity control interface  
+- Robot trajectory visualization  
+- Real-time motion graphing  
+
+🔗 **Repository:**  
+https://github.com/mrithip/turtlebot3_gui
+
+---
+
+# 🧠 Other Notable Projects
+
+## Robotics
+**Mobile Robot Project**  
+- 3-wheeled mobile robot with **depth camera, LiDAR, and camera**
+- **SLAM mapping using ROS/Gazebo**
+
+**6-DOF Robot Simulation**  
+- Robot arm simulation using **URDF + MoveIt2 motion planning**
+
+---
+
+## AI & Computer Vision
+- Face recognition attendance system  
+- Object recognition system  
+- Number plate recognition  
+- Similar image finder  
+- Local LLM experiments  
+
+---
+
+## Data Analytics
+- COVID-19 SQL analysis  
+- Nashville housing SQL data cleaning  
+- World layoff data cleaning & EDA  
+
+---
+
+## Blockchain
+- Blockchain bus pass generator  
 
 ---
 
