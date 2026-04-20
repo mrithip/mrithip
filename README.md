@@ -31,7 +31,3 @@ I’m a **software developer and robotics enthusiast** building **full-stack app
 ### Connect with Me
 [LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
 
----
-
-### GitHub Activity Graph
-![Mrithip's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrithip&theme=react-dark&hide_border=true)
