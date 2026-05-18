@@ -40,7 +40,7 @@ I’m a **QA Automation Engineer and SDET** with a strong background in software
 
 ## 🛠️ Core Skills (QA & Testing Focused)
 
-**Test Automation & Frameworks:** PyTest, Selenium, Robot Framework, Postman (API Testing)  
+**Test Automation & Frameworks:** PyTest, Playwright, Selenium, Robot Framework, Postman (API Testing)  
 **Programming & Scripting:** Python, C++, JavaScript, Bash, PHP  
 **DevOps, CI/CD & Environments:** Docker, Git, GitHub Actions, Linux, CMake, qmake  
 **Databases & Querying:** MySQL, MongoDB, SQLite, SQL (Data validation & integrity testing)  
