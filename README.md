@@ -31,49 +31,31 @@ I’m a **software developer and robotics enthusiast** building **full-stack app
 ### Connect with Me
 [LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
  -->
-
 # Hi, I’m Mrithip 👋
 
-I’m a **QA Automation Engineer and SDET** with a strong background in software development and robotics. I specialize in building **robust test automation frameworks, ensuring software reliability, and testing complex intelligent systems** (including AI/CV and hardware integration). I thrive on breaking code to make it better and combining automation with analytics to optimize software quality.
+**Multidisciplinary.** Focusing on learning, breaking, and integrating complex software, robotics, and intelligent systems.
+---
+
+## What I do...
+
+- **Developing Software and Solutions**
+- **QA & Automation**
+- **Code & Scripting**
+- **Robotics**
+- **AI Testing**
+- **DevOps**
+- **Data Analytics**
 
 ---
 
-## 🛠️ Core Skills (QA & Testing Focused)
+## Key Projects
 
-**Test Automation & Frameworks:** PyTest, Playwright, Selenium, Robot Framework, Postman (API Testing)  
-**Programming & Scripting:** Python, C++, JavaScript, Bash, PHP  
-**DevOps, CI/CD & Environments:** Docker, Git, GitHub Actions, Linux, CMake, qmake  
-**Databases & Querying:** MySQL, MongoDB, SQLite, SQL (Data validation & integrity testing)  
-**System & Integration Testing:** ROS/ROS2, Simulation testing (Gazebo/RViz), Hardware-in-the-Loop (HIL) concepts  
-**AI & Vision Testing:** Testing Computer Vision models (OpenCV), OCR validation, LLM output evaluation  
-**Data-Driven Quality:** Exploratory Data Analysis (EDA), Bug metrics & reporting, Power BI, Excel  
+- **TurtleBot3 GUI & Test Bench:** Built a PyQt interface to run E2E integration and telemetry testing on real-time robotic hardware.
+- **Mobile Robot SLAM & Sensor Validation:** Executed sensor calibration and edge-case testing for LiDAR/depth-camera autonomous navigation.
+- **6-DOF MoveIt2 Simulation:** Verified motion planning, collision detection, and trajectory stress-testing for a 6-DOF robotic arm.
+- **AI/CV Validation Suites:** Created automated benchmarks to test accuracy, latency, and false-positive rates for Object Detection and Face Recognition models.
 
 ---
 
-## 🚀 Featured Projects
-
-### [TurtleBot3 PyQt GUI & Test Bench](https://github.com/mrithip/turtlebot3_gui)
-* **Description:** Developed a real-time control and visualization interface for TurtleBot3, serving as a functional test bench for robotic telemetry.
-* **QA Impact:** Implemented end-to-end (E2E) integration testing for hardware-software communication, ensuring low-latency data visualization and reliable command execution.
-
-### Mobile Robot SLAM & Sensor Validation
-* **Description:** Built a 3-wheeled autonomous mobile robot utilizing depth cameras and LiDAR for SLAM mapping.
-* **QA Impact:** Designed and executed test cases for sensor calibration, boundary validation, and edge-case handling in unpredictable environments.
-
-### 6-DOF Robot Motion Simulation & Verification
-* **Description:** Simulated a 6-DOF robotic arm using URDF and MoveIt2.
-* **QA Impact:** Focused on motion planning verification, collision detection testing, and stress-testing trajectory execution algorithms under simulated constraints.
-
-### AI/CV System Validation Suites
-* **Description:** Developed benchmarking and validation methods for Face Recognition, Object Detection, and License Plate Readers.
-* **QA Impact:** Created automated test scripts to measure accuracy, false-positive/negative rates, and processing latency under diverse lighting and resolution conditions.
-
----
-
-## 📊 Analytics & Methodology
-I leverage my data analytics background (**SQL, EDA, Power BI**) to track bug trends, analyze test execution logs, and generate data-driven quality reports that help development teams patch vulnerabilities faster.
-
----
-
-### 🤝 Connect with Me
+### Connect with Me
 [LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
