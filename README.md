@@ -33,8 +33,7 @@ I’m a **software developer and robotics enthusiast** building **full-stack app
  -->
 # Hi, I’m Mrithip 👋
 
-**Multidisciplinary.** Focusing on learning, breaking, and integrating complex software, robotics, and intelligent systems.
----
+**Multidisciplinary...** Focusing on learning, breaking, and integrating complex software, robotics, and intelligent systems.
 
 ## What I do...
 
@@ -46,16 +45,12 @@ I’m a **software developer and robotics enthusiast** building **full-stack app
 - **DevOps**
 - **Data Analytics**
 
----
-
 ## Key Projects
 
 - **TurtleBot3 GUI & Test Bench:** Built a PyQt interface to run E2E integration and telemetry testing on real-time robotic hardware.
 - **Mobile Robot SLAM & Sensor Validation:** Executed sensor calibration and edge-case testing for LiDAR/depth-camera autonomous navigation.
 - **6-DOF MoveIt2 Simulation:** Verified motion planning, collision detection, and trajectory stress-testing for a 6-DOF robotic arm.
 - **AI/CV Validation Suites:** Created automated benchmarks to test accuracy, latency, and false-positive rates for Object Detection and Face Recognition models.
-
----
 
 ### Connect with Me
 [LinkedIn](https://linkedin.com/in/mrithip) | [Portfolio](https://mrithip.vercel.app/)
